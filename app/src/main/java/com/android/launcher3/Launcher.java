@@ -66,7 +66,6 @@ import android.text.SpannableStringBuilder;
 import android.text.TextUtils;
 import android.text.method.TextKeyListener;
 import android.util.Log;
-import android.util.TypedValue;
 import android.view.Display;
 import android.view.HapticFeedbackConstants;
 import android.view.KeyEvent;
@@ -83,7 +82,6 @@ import android.view.accessibility.AccessibilityManager;
 import android.view.animation.OvershootInterpolator;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.Advanceable;
-import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -92,7 +90,6 @@ import com.android.launcher3.DropTarget.DragObject;
 import com.android.launcher3.LauncherSettings.Favorites;
 import com.android.launcher3.accessibility.LauncherAccessibilityDelegate;
 import com.android.launcher3.allapps.AllAppsContainerView;
-import com.android.launcher3.allapps.PredictiveAppsProvider;
 import com.android.launcher3.allapps.AllAppsTransitionController;
 import com.android.launcher3.allapps.DefaultAppSearchController;
 import com.android.launcher3.compat.AppWidgetManagerCompat;
@@ -388,8 +385,6 @@ public class Launcher extends Activity
         if (LauncherAppState.PROFILE_STARTUP) {
             Trace.beginSection("Launcher-onCreate");
         }
-
-        predictiveAppsProvider = new PredictiveAppsProvider(this);
 
         if (mLauncherCallbacks != null) {
             mLauncherCallbacks.preOnCreate();
@@ -1064,8 +1059,6 @@ public class Launcher extends Activity
         if (mLauncherCallbacks != null) {
             mLauncherCallbacks.onResume();
         }
-
-        tryAndUpdatePredictedApps();
     }
 
     @Override
@@ -2849,10 +2842,6 @@ public class Launcher extends Activity
             } else if (user == null || user.equals(UserHandleCompat.myUserHandle())) {
                 // Could be launching some bookkeeping activity
                 startActivity(intent, optsBundle);
-
-                if (isAllAppsVisible()) { // only add to the prediction if they open from the drawer
-                    predictiveAppsProvider.updateComponentCount(intent.getComponent());
-                }
             } else {
                 LauncherAppsCompat.getInstance(this).startActivityForProfile(
                         intent.getComponent(), user, intent.getSourceBounds(), optsBundle);
@@ -2862,8 +2851,7 @@ public class Launcher extends Activity
             Toast.makeText(this, R.string.activity_not_found, Toast.LENGTH_SHORT).show();
             Log.e(TAG, "Unable to launch. tag=" + item + " intent=" + intent, e);
         }
-
-        return true;
+        return false;
     }
 
     /**
@@ -3434,11 +3422,9 @@ public class Launcher extends Activity
      * Updates the set of predicted apps if it hasn't been updated since the last time Launcher was
      * resumed.
      */
-    public  void tryAndUpdatePredictedApps() {
-        List<ComponentKey> apps;
+    public void tryAndUpdatePredictedApps() {
         if (mLauncherCallbacks != null) {
-            apps = mLauncherCallbacks.getPredictedApps();
-
+            List<ComponentKey> apps = mLauncherCallbacks.getPredictedApps();
             if (apps != null) {
                 mAppsView.setPredictedApps(apps);
                 getUserEventDispatcher().setPredictedApps(apps);
@@ -4486,8 +4472,6 @@ public class Launcher extends Activity
             return Collections.EMPTY_LIST;
         }
     }
-
-    private PredictiveAppsProvider predictiveAppsProvider;
 
     public static Launcher getLauncher(Context context) {
         if (context instanceof Launcher) {
