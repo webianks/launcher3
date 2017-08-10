@@ -8,16 +8,16 @@
         "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/layout/zzz_weight_watcher.xml"
     },
     {
-        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/layout/all_apps_button.xml",
-        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/layout/all_apps_button.xml"
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/layout/qsb_container.xml",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/layout/qsb_container.xml"
     },
     {
         "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/layout/widgets_list_row_view.xml",
         "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/layout/widgets_list_row_view.xml"
     },
     {
-        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/layout/qsb_container.xml",
-        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/layout/qsb_container.xml"
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/layout/all_apps_button.xml",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/layout/all_apps_button.xml"
     },
     {
         "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/layout/launcher_overlay.xml",

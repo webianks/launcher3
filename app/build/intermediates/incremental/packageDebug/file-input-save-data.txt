@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Aug 10 16:00:38 IST 2017
+#Thu Aug 10 16:52:39 IST 2017
 60.set=ANDROID_RESOURCE
 52.set=ANDROID_RESOURCE
 53.base=/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/resources-debug.ap_
