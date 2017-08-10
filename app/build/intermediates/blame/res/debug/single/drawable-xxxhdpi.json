@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/quantum_panel_bitmap.9.png",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/drawable-xxxhdpi/quantum_panel_bitmap.9.png"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/workspace_bg.9.png",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/drawable-xxxhdpi/workspace_bg.9.png"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/widget_resize_shadow.9.png",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/drawable-xxxhdpi/widget_resize_shadow.9.png"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/widget_resize_frame.9.png",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/drawable-xxxhdpi/widget_resize_frame.9.png"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_uninstall_launcher.png",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/drawable-xxxhdpi/ic_uninstall_launcher.png"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_all_apps_bg_hand.png",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/drawable-xxxhdpi/ic_all_apps_bg_hand.png"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_info_launcher.png",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/drawable-xxxhdpi/ic_info_launcher.png"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_remove_launcher.png",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/drawable-xxxhdpi/ic_remove_launcher.png"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/quantum_panel_dark_bitmap.9.png",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/drawable-xxxhdpi/quantum_panel_dark_bitmap.9.png"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_widget_resize_handle.png",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/drawable-xxxhdpi/ic_widget_resize_handle.png"
+    }
+]

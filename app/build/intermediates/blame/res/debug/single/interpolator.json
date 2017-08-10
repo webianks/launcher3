@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/interpolator/disco_bounce_section1.xml",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/interpolator/disco_bounce_section1.xml"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/interpolator/disco_bounce_section2.xml",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/interpolator/disco_bounce_section2.xml"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/interpolator/decelerate_quart.xml",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/interpolator/decelerate_quart.xml"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/interpolator/decelerate_quint.xml",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/interpolator/decelerate_quint.xml"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/interpolator/disco_bounce_section3.xml",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/interpolator/disco_bounce_section3.xml"
+    }
+]

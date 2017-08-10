@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/ramankit/.android/build-cache/4a513ca64ae44b68832014b829813d3587c5e4c6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/pre-dexed/debug/classes_db5b0d0eeca533903e4bd3cad7eb1a4f5b10cf17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ramankit/.android/build-cache/434ca83c652ba50cc6806f15338aceaccca96693/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/pre-dexed/debug/classes_015b7e26cafd51472db3ac636a89155bfc2df9f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ramankit/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_e7c4915d976359f4c6c5d8eeae24f5103bd39897.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ramankit/.android/build-cache/42028c8a4d0a071935c6419f188052cd286079b9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/pre-dexed/debug/classes_beb6bff140eb120878f1bab04767c25974bbd2d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ramankit/.android/build-cache/21e9f13a6b253fb03015fc824dae1ba9d12095eb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/pre-dexed/debug/classes_87ab09690d33e4a7a2e19d012d7d6b804b077849.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ramankit/.android/build-cache/3585c88cab54f2b974b002c86e916e12a7d7a34e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="379a48c2da13ffb7ec7134f2c715663834357670">
+        <dex dex="/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/pre-dexed/debug/classes_bb5461ec8f3b93325255ef021a3ce4c94bd6b56d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ramankit/.android/build-cache/c617921ef7586978f3503707bb114e9a1bc7edef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/pre-dexed/debug/classes_c08831b210174f3ac2df87c051a1de160d117325.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ramankit/.android/build-cache/5499c459b98fc7c20945b29ead8ea87e937f5360/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/pre-dexed/debug/classes_4281e2f9f769885527ffb681a8d8e0f5c7479e10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ramankit/.android/build-cache/93e035c6eb0459a71149f61635f10e272c981ea2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/pre-dexed/debug/classes_6b60a21e6ed109d6775d34c037a821886a3bf374.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ramankit/AndroidStudioProjects/NougatLauncher/app/lib/protobuf-java-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6311b2f08c0b08fd3da4d5e4f6aaa286c9e97918">
+        <dex dex="/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/pre-dexed/debug/protobuf-java-2.3.0_950e80ec05592ff8a97b49d003fdfc4e739d49c6.jar" />
+    </item>
+
+</items>

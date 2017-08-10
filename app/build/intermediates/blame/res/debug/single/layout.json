@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/layout/qsb_default_view.xml",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/layout/qsb_default_view.xml"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/layout/zzz_weight_watcher.xml",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/layout/zzz_weight_watcher.xml"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/layout/all_apps_button.xml",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/layout/all_apps_button.xml"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/layout/widgets_list_row_view.xml",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/layout/widgets_list_row_view.xml"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/layout/qsb_container.xml",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/layout/qsb_container.xml"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/layout/launcher_overlay.xml",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/layout/launcher_overlay.xml"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/layout/all_apps_search_divider.xml",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/layout/all_apps_search_divider.xml"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/layout/appwidget_not_ready.xml",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/layout/appwidget_not_ready.xml"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/layout/folder_application.xml",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/layout/folder_application.xml"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/layout/all_apps_empty_search.xml",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/layout/all_apps_empty_search.xml"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/layout/deep_shortcuts_container.xml",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/layout/deep_shortcuts_container.xml"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/layout/deep_shortcut.xml",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/layout/deep_shortcut.xml"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/layout/all_apps_icon.xml",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/layout/all_apps_icon.xml"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/layout/zzz_dummy_widget.xml",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/layout/zzz_dummy_widget.xml"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/layout/widget_cell.xml",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/layout/widget_cell.xml"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/layout/qsb_blocker_view.xml",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/layout/qsb_blocker_view.xml"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/layout/all_apps.xml",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/layout/all_apps.xml"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/layout/user_folder_icon_normalized.xml",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/layout/user_folder_icon_normalized.xml"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/layout/user_folder.xml",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/layout/user_folder.xml"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/layout/workspace_screen.xml",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/layout/workspace_screen.xml"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/layout/folder_icon.xml",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/layout/folder_icon.xml"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/layout/hotseat.xml",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/layout/hotseat.xml"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/layout/app_icon.xml",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/layout/app_icon.xml"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/layout/all_apps_search_market.xml",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/layout/all_apps_search_market.xml"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/layout/overview_panel.xml",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/layout/overview_panel.xml"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/layout/all_apps_divider.xml",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/layout/all_apps_divider.xml"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/layout/drop_target_bar_horz.xml",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/layout/drop_target_bar_horz.xml"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/layout/widgets_view.xml",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/layout/widgets_view.xml"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/layout/page_indicator.xml",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/layout/page_indicator.xml"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/layout/drop_target_bar_vert.xml",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/layout/drop_target_bar_vert.xml"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/layout/appwidget_error.xml",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/layout/appwidget_error.xml"
+    }
+]

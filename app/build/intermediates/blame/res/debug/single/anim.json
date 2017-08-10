@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/anim/discovery_bounce.xml",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/anim/discovery_bounce.xml"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/anim/task_open_enter.xml",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/anim/task_open_enter.xml"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/anim/no_anim.xml",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/anim/no_anim.xml"
+    }
+]

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="7610119707847920412" name="abandoned_clean_this">"Հեռացնել"</string>
+    <string msgid="3990027586878167529" name="abandoned_promise_explanation">"Այս պատկերակի ծրագիրը տեղադրված չէ: Դուք կարող եք հեռացնել այն կամ գտնել ծրագիրը և տեղադրել այն ձեռքով:"</string>
+    <string msgid="7096178467971716750" name="abandoned_promises_title">"Այս ծրագիրը տեղադրված չէ:"</string>
+    <string msgid="891119232568284442" name="abandoned_search">"Գտնել"</string>
+    <string msgid="6257665857640347026" name="accessibility_action_overview">"Համատեսք"</string>
+    <string msgid="8902165848117513641" name="action_add_to_workspace">"Ավելացնել Հիմնական էկրանին"</string>
+    <string msgid="282377193880900022" name="action_decrease_height">"Նվազեցնել բարձրությունը"</string>
+    <string msgid="1374549771083094654" name="action_decrease_width">"Նվազեցնել լայնությունը"</string>
+    <string msgid="2864038805849372848" name="action_deep_shortcut">"Դյուրանցումներ"</string>
+    <string msgid="459390020612501122" name="action_increase_height">"Ավելացնել բարձրությունը"</string>
+    <string msgid="8773715375078513326" name="action_increase_width">"Ավելացնել լայնությունը"</string>
+    <string msgid="4339390619886385032" name="action_move">"Տեղափոխել տարրը"</string>
+    <string msgid="2170188780612570250" name="action_move_here">"Տեղափոխել տարրն այստեղ"</string>
+    <string msgid="8854216831569401665" name="action_move_screen_left">"Տեղափոխել էկրանը ձախ"</string>
+    <string msgid="329334910274311123" name="action_move_screen_right">"Տեղափոխել էկրանը աջ"</string>
+    <string msgid="1603837886334246317" name="action_move_to_workspace">"Տեղափոխել Հիմնական էկրան"</string>
+    <string msgid="1802976324781771067" name="action_resize">"Չափափոխել"</string>
+    <string msgid="7456344436509528827" name="activity_not_available">"Հավելվածը հասանելի չէ"</string>
+    <string msgid="8071924732094499514" name="activity_not_found">"Ծրագիրը տեղադրված չէ:"</string>
+    <string msgid="9040534766770853243" name="add_to_folder">"Ավելացնել թղթապանակում՝ <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="4534929978967147231" name="add_to_folder_with_app">"Ավելացնել «<ns1:g id="NAME">%1$s</ns1:g>» պանակին"</string>
+    <string msgid="4793259502305558003" name="added_to_folder">"Տարրն ավելացվեց թղթապանակում"</string>
+    <string msgid="8130441508702294465" name="all_apps_button_label">"Հավելվածների ցանկ"</string>
+    <string msgid="252062713717058851" name="all_apps_home_button_label">"Հիմնական"</string>
+    <string msgid="7557140873644765180" name="all_apps_loading_message">"Հավելվածների բեռնում…"</string>
+    <string msgid="6332185285860416787" name="all_apps_no_search_results">"«<ns1:g id="QUERY">%1$s</ns1:g>» հարցմանը համապատասխանող հավելվածներ չեն գտնվել"</string>
+    <string msgid="7084713969757597256" name="all_apps_search_bar_hint">"Հավելվածների որոնում"</string>
+    <string msgid="1366263386197059176" name="all_apps_search_market_message">"Որոնել այլ հավելվածներ"</string>
+    <string msgid="3212602545192996253" name="allow_rotation_blocked_desc">"Ցուցադրման ընթացիկ կարգավորումներն արգելում են պտտումը"</string>
+    <string msgid="8662546029078692509" name="allow_rotation_desc">"Հեռախոսը պտտելու դեպքում"</string>
+    <string msgid="7728578836261442095" name="allow_rotation_title">"Թույլ տալ հիմնական էկրանի պտտումը"</string>
+    <string msgid="8336702962104482644" name="app_downloading_title">"<ns1:g id="NAME">%1$s</ns1:g>–ի ներբեռնում (<ns1:g id="PROGRESS">%2$s</ns1:g>)"</string>
+    <string msgid="692894985365717661" name="app_info_drop_target_label">"Հավելվածի տվյալներ"</string>
+    <string msgid="649227358658669779" name="app_name">"Launcher3"</string>
+    <string msgid="7053938513995617849" name="app_waiting_download_title">"<ns1:g id="NAME">%1$s</ns1:g>-ի տեղադրման սպասում"</string>
+    <string msgid="4050141361160214248" name="create_folder_with">"Ստեղծել թղթապանակ, օգտագործելով՝ <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="7475544710230993317" name="default_scroll_format">"Էջ %1$d՝ %2$d-ից"</string>
+    <string msgid="6673129024321402780" name="disabled_app_label">"<ns1:g id="APP_NAME">%1$s</ns1:g> հավելվածն անջատված է"</string>
+    <string msgid="4100806530910930934" name="folder_closed">"Պանակը փակ է"</string>
+    <string msgid="6409794597405184510" name="folder_created">"Պանակը ստեղծվեց"</string>
+    <string msgid="6617836969016293992" name="folder_hint_text">"Անանուն պանակ"</string>
+    <string msgid="7371454440695724752" name="folder_name"/>
+    <string msgid="6629239338071103179" name="folder_name_format">"Պանակ՝ <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="94695026776264709" name="folder_opened">"Պանակը բաց է, <ns1:g id="WIDTH">%1$d</ns1:g>-ից <ns1:g id="HEIGHT">%2$d</ns1:g>"</string>
+    <string msgid="1794088362165669656" name="folder_renamed">"Պանակը վերանվանվեց <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="4625795376335528256" name="folder_tap_to_close">"Հպեք՝ պանակը փակելու համար"</string>
+    <string msgid="4017685068016979677" name="folder_tap_to_rename">"Հպեք՝ նոր անվանումը պահելու համար"</string>
+    <string msgid="6081085226050792095" name="gadget_error_text">"Վիջեթի բեռնման խնդիր կա"</string>
+    <string msgid="8274003207686040488" name="gadget_setup_text">"Կարգավորում"</string>
+    <string msgid="7448809638125333693" name="hotseat_out_of_space">"Ընտրյալների ցուցակում այլևս ազատ տեղ չկա"</string>
+    <string msgid="4211073925752213539" name="item_added_to_workspace">"Տարրն ավելացվեց հիմնական էկրանին"</string>
+    <string msgid="4606538322571412879" name="item_moved">"Տարրը տեղափոխվեց"</string>
+    <string msgid="851119963877842327" name="item_removed">"Տարրը հեռացվեց"</string>
+    <string msgid="4289502106628154155" name="long_accessible_way_to_add">"Կրկնակի հպեք և պահեք՝ վիջեթ ավելացնելու համար կամ օգտվեք հարմարեցրած գործողություններից:"</string>
+    <string msgid="7699152356777458215" name="long_press_widget_to_add">"Հպեք և պահեք՝ վիջեթն ընտրելու համար:"</string>
+    <string msgid="2833711483015685619" name="move_to_empty_cell">"Տեղափոխել տող <ns1:g id="NUMBER_0">%1$s</ns1:g> սյունակ <ns1:g id="NUMBER_1">%2$s</ns1:g>"</string>
+    <string msgid="6295412897075147808" name="move_to_hotseat_position">"Տեղափոխել նախընտրած դիրք՝ <ns1:g id="NUMBER">%1$s</ns1:g>"</string>
+    <string msgid="6750008980455459790" name="move_to_position">"Տեղափոխել դիրք <ns1:g id="NUMBER">%1$s</ns1:g>"</string>
+    <string msgid="6898038085516271325" name="msg_disabled_by_admin">"Անջատվել է ձեր ադմինիստրատորի կողմից"</string>
+    <string msgid="9208659281529857371" name="msg_no_phone_permission">"<ns1:g id="APP_NAME">%1$s</ns1:g> հավելվածին չի թույլատրվում հեռախոսազանգեր կատարել"</string>
+    <string msgid="4691004494942118364" name="out_of_space">"Այլևս տեղ չկա այս հիմնական էկրանին:"</string>
+    <string msgid="7592128424511031410" name="package_state_unknown">"Անհայտ է"</string>
+    <string msgid="923466509822011139" name="permdesc_install_shortcut">"Ծրագրին թույլ է տալիս ավելացնել դյուրանցումներ՝ առանց օգտագործողի միջամտության:"</string>
+    <string msgid="5833423719057558387" name="permdesc_read_settings">"Ծրագրին թույլ է տալիս կարդալ հիմնաէջի կարգավորումներն ու դյուրանցումները:"</string>
+    <string msgid="5440712911516509985" name="permdesc_write_settings">"Ծրագրին թույլ է տալիս փոփոխել հիմնաէջի կարգավորումներն ու դյուրանցումները:"</string>
+    <string msgid="5632423390354674437" name="permlab_install_shortcut">"տեղադրել դյուրանցումներ"</string>
+    <string msgid="1941457408239617576" name="permlab_read_settings">"կարդալ հիմնաէջի կարգավորումներն ու դյուրանցումները"</string>
+    <string msgid="3574213698004620587" name="permlab_write_settings">"ստեղծել հիմնաէջի կարգավորումներ ու դյուրանցումներ"</string>
+    <string msgid="7812859488053230776" name="remove_drop_target_label">"Հեռացնել"</string>
+    <string msgid="9160126848219158407" name="safemode_shortcut_error">"Ներբեռնված ծրագիրն անջատված է Անվտանգ ռեժիմում"</string>
+    <string msgid="4863470563535682004" name="safemode_widget_error">"Վիջեթներն անջատված են անվտանգ ռեժիմում"</string>
+    <string msgid="266230079505650577" name="screen_moved">"Էկրանը տեղափոխվեց"</string>
+    <string msgid="8119458837558863227" name="settings_button_text">"Կարգավորումներ"</string>
+    <string msgid="2536503539825726397" name="shortcut_not_available">"Դյուրանցումն անհասանելի է"</string>
+    <string msgid="406159963824238648" name="shortcuts_menu_description">"<ns1:g id="NUMBER_OF_SHORTCUTS">%1$d</ns1:g> դյուրանցումներ <ns1:g id="APP_NAME">%2$s</ns1:g> հավելվածի համար"</string>
+    <string msgid="4722034217958379417" name="uninstall_drop_target_label">"Հեռացնել"</string>
+    <string msgid="4172046090762920660" name="uninstall_system_app_text">"Սա համակարգային ծրագիր է և չի կարող ապատեղադրվել:"</string>
+    <string msgid="8404103075899945851" name="wallpaper_button_text">"Պաստառներ"</string>
+    <string msgid="3640149169885301790" name="widget_accessible_dims_format">"Լայնությունը՝ %1$d, բարձրությունը՝ %2$d"</string>
+    <string msgid="2880537293434387943" name="widget_button_text">"Վիջեթներ"</string>
+    <string msgid="2370757736025621599" name="widget_dims_format">"%1$d × %2$d"</string>
+    <string msgid="9130327887929620" name="widget_resized">"Վիջեթի լայնությունը փոխվել է <ns1:g id="NUMBER_0">%1$s</ns1:g>-ի, իսկ բարձրությունը՝ <ns1:g id="NUMBER_1">%2$s</ns1:g>-ի"</string>
+    <string msgid="3753320833950115786" name="work_folder_name">"Աշխատանքային"</string>
+    <string msgid="257366611030256142" name="workspace_new_page">"Հիմնական էկրանի նոր էջ"</string>
+    <string msgid="8458889198184077399" name="workspace_scroll_format">"Հիմնական էկրան %1$d` %2$d-ից"</string>
+</resources>

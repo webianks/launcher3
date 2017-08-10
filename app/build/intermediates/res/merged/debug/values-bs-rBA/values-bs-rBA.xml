@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="7610119707847920412" name="abandoned_clean_this">"Ukloni"</string>
+    <string msgid="3990027586878167529" name="abandoned_promise_explanation">"Aplikacija za ovu ikonu nije instalirana. Možete je ukloniti ili potražiti aplikaciju i ručno je instalirati."</string>
+    <string msgid="7096178467971716750" name="abandoned_promises_title">"Ova aplikacija nije instalirana"</string>
+    <string msgid="891119232568284442" name="abandoned_search">"Traži"</string>
+    <string msgid="6257665857640347026" name="accessibility_action_overview">"Pregled"</string>
+    <string msgid="8902165848117513641" name="action_add_to_workspace">"Dodaj na početni ekran"</string>
+    <string msgid="282377193880900022" name="action_decrease_height">"Smanji visinu"</string>
+    <string msgid="1374549771083094654" name="action_decrease_width">"Smanji širinu"</string>
+    <string msgid="2864038805849372848" name="action_deep_shortcut">"Prečice"</string>
+    <string msgid="459390020612501122" name="action_increase_height">"Povećaj visinu"</string>
+    <string msgid="8773715375078513326" name="action_increase_width">"Povećaj širinu"</string>
+    <string msgid="4339390619886385032" name="action_move">"Premjesti stavku"</string>
+    <string msgid="2170188780612570250" name="action_move_here">"Premjesti stavku ovdje"</string>
+    <string msgid="8854216831569401665" name="action_move_screen_left">"Pomjeri ekran ulijevo"</string>
+    <string msgid="329334910274311123" name="action_move_screen_right">"Pomjeri ekran udesno"</string>
+    <string msgid="1603837886334246317" name="action_move_to_workspace">"Pomjeri na početni ekran"</string>
+    <string msgid="1802976324781771067" name="action_resize">"Promijeni veličinu"</string>
+    <string msgid="7456344436509528827" name="activity_not_available">"Aplikacija nije dostupna"</string>
+    <string msgid="8071924732094499514" name="activity_not_found">"Aplikacija nije instalirana."</string>
+    <string msgid="9040534766770853243" name="add_to_folder">"Dodaj u folder: <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="4534929978967147231" name="add_to_folder_with_app">"Dodaj u folder sa aplikacijom <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="4793259502305558003" name="added_to_folder">"Stavka je dodana u folder"</string>
+    <string msgid="8130441508702294465" name="all_apps_button_label">"Spisak aplikacija"</string>
+    <string msgid="252062713717058851" name="all_apps_home_button_label">"Tipka za početak"</string>
+    <string msgid="7557140873644765180" name="all_apps_loading_message">"Aplikacije se učitavaju…"</string>
+    <string msgid="6332185285860416787" name="all_apps_no_search_results">"Nije pronađena nijedna aplikacija koja odgovara upitu \"<ns1:g id="QUERY">%1$s</ns1:g>\""</string>
+    <string msgid="7084713969757597256" name="all_apps_search_bar_hint">"Pretraži aplikacije"</string>
+    <string msgid="1366263386197059176" name="all_apps_search_market_message">"Pretraži više aplikacija"</string>
+    <string msgid="3212602545192996253" name="allow_rotation_blocked_desc">"Trenutne postavke ekrana ne dozvoljavaju rotiranje"</string>
+    <string msgid="8662546029078692509" name="allow_rotation_desc">"Kada se telefon zarotira"</string>
+    <string msgid="7728578836261442095" name="allow_rotation_title">"Dozvoli rotiranje početnog ekrana"</string>
+    <string msgid="8336702962104482644" name="app_downloading_title">"<ns1:g id="NAME">%1$s</ns1:g> se preuzima, završeno <ns1:g id="PROGRESS">%2$s</ns1:g>"</string>
+    <string msgid="692894985365717661" name="app_info_drop_target_label">"Informacije o aplikaciji"</string>
+    <string msgid="649227358658669779" name="app_name">"Launcher3"</string>
+    <string msgid="7053938513995617849" name="app_waiting_download_title">"<ns1:g id="NAME">%1$s</ns1:g> čeka da se instalira"</string>
+    <string msgid="4050141361160214248" name="create_folder_with">"Kreirajte folder sa stavkom: <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="7475544710230993317" name="default_scroll_format">"Strana %1$d od %2$d"</string>
+    <string msgid="6673129024321402780" name="disabled_app_label">"Aplikacija <ns1:g id="APP_NAME">%1$s</ns1:g> je onemogućena"</string>
+    <string msgid="4100806530910930934" name="folder_closed">"Fascikla je zatvorena"</string>
+    <string msgid="6409794597405184510" name="folder_created">"Folder je kreiran"</string>
+    <string msgid="6617836969016293992" name="folder_hint_text">"Neimenovana fascikla"</string>
+    <string msgid="7371454440695724752" name="folder_name"/>
+    <string msgid="6629239338071103179" name="folder_name_format">"Fascikla: <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="94695026776264709" name="folder_opened">"Fascikla je otvorena, (š) <ns1:g id="WIDTH">%1$d</ns1:g> (v) <ns1:g id="HEIGHT">%2$d</ns1:g>"</string>
+    <string msgid="1794088362165669656" name="folder_renamed">"Ime fascikle je promijenjeno u <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="4625795376335528256" name="folder_tap_to_close">"Dodirnite da zatvorite folder"</string>
+    <string msgid="4017685068016979677" name="folder_tap_to_rename">"Dodirnite da sačuvate promjenu imena"</string>
+    <string msgid="6081085226050792095" name="gadget_error_text">"Problem pri učitavanju dodatka"</string>
+    <string msgid="8274003207686040488" name="gadget_setup_text">"Postavljanje"</string>
+    <string msgid="7448809638125333693" name="hotseat_out_of_space">"Nema više prostora u ladici Favoriti"</string>
+    <string msgid="4211073925752213539" name="item_added_to_workspace">"Stavka je dodana na Početni ekran."</string>
+    <string msgid="4606538322571412879" name="item_moved">"Stavka je premještena"</string>
+    <string msgid="851119963877842327" name="item_removed">"Stavka je uklonjena"</string>
+    <string msgid="4289502106628154155" name="long_accessible_way_to_add">"Dvaput dodirnite &amp; i držite da biste uzeli vidžet ili koristite prilagođene radnje."</string>
+    <string msgid="7699152356777458215" name="long_press_widget_to_add">"Dodirnite &amp; i držite da biste uzeli dodatak."</string>
+    <string msgid="2833711483015685619" name="move_to_empty_cell">"Pomjeri stavku u red <ns1:g id="NUMBER_0">%1$s</ns1:g> kolonu <ns1:g id="NUMBER_1">%2$s</ns1:g>"</string>
+    <string msgid="6295412897075147808" name="move_to_hotseat_position">"Pomjeri stavku na poziciju <ns1:g id="NUMBER">%1$s</ns1:g> među favoritima"</string>
+    <string msgid="6750008980455459790" name="move_to_position">"Pomjeri stavku na poziciju <ns1:g id="NUMBER">%1$s</ns1:g>"</string>
+    <string msgid="6898038085516271325" name="msg_disabled_by_admin">"Onemogućio vaš administrator"</string>
+    <string msgid="9208659281529857371" name="msg_no_phone_permission">"<ns1:g id="APP_NAME">%1$s</ns1:g> nema dozvolu da uspostavlja telefonske pozive"</string>
+    <string msgid="4691004494942118364" name="out_of_space">"Na ovom početnom ekranu nema više prostora."</string>
+    <string msgid="7592128424511031410" name="package_state_unknown">"Nepoznato"</string>
+    <string msgid="923466509822011139" name="permdesc_install_shortcut">"Dopušta aplikaciji dodavanje prečica bez posredovanja korisnika."</string>
+    <string msgid="5833423719057558387" name="permdesc_read_settings">"Dopušta aplikaciji čitanje postavki i prečica na početnom ekranu."</string>
+    <string msgid="5440712911516509985" name="permdesc_write_settings">"Dopušta aplikaciji promjenu postavki i prečica na početnom ekranu."</string>
+    <string msgid="5632423390354674437" name="permlab_install_shortcut">"instaliraj prečice"</string>
+    <string msgid="1941457408239617576" name="permlab_read_settings">"čitaj postavke na početnom ekranu i prečice"</string>
+    <string msgid="3574213698004620587" name="permlab_write_settings">"zapisuj postavke na početnom ekranu i prečice"</string>
+    <string msgid="7812859488053230776" name="remove_drop_target_label">"Ukloni"</string>
+    <string msgid="9160126848219158407" name="safemode_shortcut_error">"Preuzeta aplikacija je onemogućena u sigurnom načinu rada"</string>
+    <string msgid="4863470563535682004" name="safemode_widget_error">"Vidžeti su onemogućeni u sigurnom načinu rada."</string>
+    <string msgid="266230079505650577" name="screen_moved">"Ekran je pomjeren"</string>
+    <string msgid="8119458837558863227" name="settings_button_text">"Postavke"</string>
+    <string msgid="2536503539825726397" name="shortcut_not_available">"Prečica nije dostupna"</string>
+    <string msgid="406159963824238648" name="shortcuts_menu_description">"<ns1:g id="NUMBER_OF_SHORTCUTS">%1$d</ns1:g> prečica za aplikaciju <ns1:g id="APP_NAME">%2$s</ns1:g>"</string>
+    <string msgid="4722034217958379417" name="uninstall_drop_target_label">"Deinstaliraj"</string>
+    <string msgid="4172046090762920660" name="uninstall_system_app_text">"Ovo je sistemska aplikacija i ne može se deinstalirati."</string>
+    <string msgid="8404103075899945851" name="wallpaper_button_text">"Pozadine"</string>
+    <string msgid="3640149169885301790" name="widget_accessible_dims_format">"Širina %1$d, visina %2$d"</string>
+    <string msgid="2880537293434387943" name="widget_button_text">"Dodaci"</string>
+    <string msgid="2370757736025621599" name="widget_dims_format">"%1$d × %2$d"</string>
+    <string msgid="9130327887929620" name="widget_resized">"Veličina vidžeta je promijenjena na širinu <ns1:g id="NUMBER_0">%1$s</ns1:g> visinu <ns1:g id="NUMBER_1">%2$s</ns1:g>"</string>
+    <string msgid="3753320833950115786" name="work_folder_name">"Posao"</string>
+    <string msgid="257366611030256142" name="workspace_new_page">"Nova stranica početnog ekrana"</string>
+    <string msgid="8458889198184077399" name="workspace_scroll_format">"Početni ekran %1$d od %2$d"</string>
+</resources>

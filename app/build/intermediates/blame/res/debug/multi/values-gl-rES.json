@@ -1,0 +1,1622 @@
+[
+    {
+        "outputFile": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gl-rES/values-gl-rES.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 87,
+                    "endOffset": 188
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 6977,
+                        "endColumn": 87,
+                        "endOffset": 7060
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 193,
+                    "endColumn": 200,
+                    "endOffset": 389
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 7264,
+                        "endColumn": 200,
+                        "endOffset": 7460
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 394,
+                    "endColumn": 117,
+                    "endOffset": 507
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 7146,
+                        "endColumn": 117,
+                        "endOffset": 7259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 512,
+                    "endColumn": 80,
+                    "endOffset": 588
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 7065,
+                        "endColumn": 80,
+                        "endOffset": 7141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 593,
+                    "endColumn": 100,
+                    "endOffset": 689
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 6416,
+                        "endColumn": 100,
+                        "endOffset": 6512
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 694,
+                    "endColumn": 110,
+                    "endOffset": 800
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 7785,
+                        "endColumn": 110,
+                        "endOffset": 7891
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 805,
+                    "endColumn": 94,
+                    "endOffset": 895
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 10214,
+                        "endColumn": 94,
+                        "endOffset": 10304
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 900,
+                    "endColumn": 93,
+                    "endOffset": 989
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 4,
+                        "startOffset": 10120,
+                        "endColumn": 93,
+                        "endOffset": 10209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 994,
+                    "endColumn": 86,
+                    "endOffset": 1076
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 10506,
+                        "endColumn": 86,
+                        "endOffset": 10588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1081,
+                    "endColumn": 95,
+                    "endOffset": 1172
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 4,
+                        "startOffset": 10024,
+                        "endColumn": 95,
+                        "endOffset": 10115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1177,
+                    "endColumn": 94,
+                    "endOffset": 1267
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 9929,
+                        "endColumn": 94,
+                        "endOffset": 10019
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1272,
+                    "endColumn": 84,
+                    "endOffset": 1352
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 8207,
+                        "endColumn": 84,
+                        "endOffset": 8287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1357,
+                    "endColumn": 94,
+                    "endOffset": 1447
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 7896,
+                        "endColumn": 94,
+                        "endOffset": 7986
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1452,
+                    "endColumn": 107,
+                    "endOffset": 1555
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 9538,
+                        "endColumn": 107,
+                        "endOffset": 9641
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1560,
+                    "endColumn": 106,
+                    "endOffset": 1662
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 9646,
+                        "endColumn": 106,
+                        "endOffset": 9748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1667,
+                    "endColumn": 109,
+                    "endOffset": 1772
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 9428,
+                        "endColumn": 109,
+                        "endOffset": 9533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1777,
+                    "endColumn": 86,
+                    "endOffset": 1859
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 9842,
+                        "endColumn": 86,
+                        "endOffset": 9924
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1864,
+                    "endColumn": 113,
+                    "endOffset": 1973
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1126,
+                        "endColumn": 113,
+                        "endOffset": 1235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1978,
+                    "endColumn": 108,
+                    "endOffset": 2082
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1017,
+                        "endColumn": 108,
+                        "endOffset": 1121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2087,
+                    "endColumn": 122,
+                    "endOffset": 2205
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 4,
+                        "startOffset": 8832,
+                        "endColumn": 126,
+                        "endOffset": 8954
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2210,
+                    "endColumn": 134,
+                    "endOffset": 2340
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 8959,
+                        "endColumn": 138,
+                        "endOffset": 9093
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2345,
+                    "endColumn": 106,
+                    "endOffset": 2447
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 9098,
+                        "endColumn": 106,
+                        "endOffset": 9200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2452,
+                    "endColumn": 100,
+                    "endOffset": 2548
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2868,
+                        "endColumn": 100,
+                        "endOffset": 2964
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2553,
+                    "endColumn": 90,
+                    "endOffset": 2639
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2969,
+                        "endColumn": 90,
+                        "endOffset": 3055
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2644,
+                    "endColumn": 106,
+                    "endOffset": 2746
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2238,
+                        "endColumn": 106,
+                        "endOffset": 2340
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2751,
+                    "endColumn": 165,
+                    "endOffset": 2912
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2345,
+                        "endColumn": 169,
+                        "endOffset": 2510
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2917,
+                    "endColumn": 103,
+                    "endOffset": 3016
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 2134,
+                        "endColumn": 103,
+                        "endOffset": 2233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3021,
+                    "endColumn": 112,
+                    "endOffset": 3129
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2515,
+                        "endColumn": 112,
+                        "endOffset": 2623
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3134,
+                    "endColumn": 154,
+                    "endOffset": 3284
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 6730,
+                        "endColumn": 154,
+                        "endOffset": 6880
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3289,
+                    "endColumn": 97,
+                    "endOffset": 3382
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 6632,
+                        "endColumn": 97,
+                        "endOffset": 6725
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3387,
+                    "endColumn": 114,
+                    "endOffset": 3497
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 6517,
+                        "endColumn": 114,
+                        "endOffset": 6627
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3502,
+                    "endColumn": 168,
+                    "endOffset": 3666
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 7465,
+                        "endColumn": 176,
+                        "endOffset": 7637
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3671,
+                    "endColumn": 103,
+                    "endOffset": 3770
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 3250,
+                        "endColumn": 103,
+                        "endOffset": 3349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 3775,
+                    "endColumn": 75,
+                    "endOffset": 3846
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 788,
+                        "endColumn": 75,
+                        "endOffset": 859
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3851,
+                    "endColumn": 138,
+                    "endOffset": 3985
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 7642,
+                        "endColumn": 142,
+                        "endOffset": 7780
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3990,
+                    "endColumn": 126,
+                    "endOffset": 4112
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 9205,
+                        "endColumn": 130,
+                        "endOffset": 9331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 4117,
+                    "endColumn": 99,
+                    "endOffset": 4212
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 4951,
+                        "endColumn": 99,
+                        "endOffset": 5046
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 4217,
+                    "endColumn": 123,
+                    "endOffset": 4336
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 4823,
+                        "endColumn": 127,
+                        "endOffset": 4946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4341,
+                    "endColumn": 91,
+                    "endOffset": 4428
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 5672,
+                        "endColumn": 91,
+                        "endOffset": 5759
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4433,
+                    "endColumn": 91,
+                    "endOffset": 4520
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 9336,
+                        "endColumn": 91,
+                        "endOffset": 9423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4525,
+                    "endColumn": 92,
+                    "endOffset": 4613
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 4730,
+                        "endColumn": 92,
+                        "endOffset": 4818
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4618,
+                    "endColumn": 60,
+                    "endOffset": 4674
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 864,
+                        "endColumn": 68,
+                        "endOffset": 928
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4679,
+                    "endColumn": 116,
+                    "endOffset": 4791
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 5899,
+                        "endColumn": 120,
+                        "endOffset": 6015
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4796,
+                    "endColumn": 156,
+                    "endOffset": 4948
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 5275,
+                        "endColumn": 164,
+                        "endOffset": 5435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4953,
+                    "endColumn": 130,
+                    "endOffset": 5079
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 5764,
+                        "endColumn": 134,
+                        "endOffset": 5894
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 5084,
+                    "endColumn": 110,
+                    "endOffset": 5190
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 5440,
+                        "endColumn": 110,
+                        "endOffset": 5546
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 5195,
+                    "endColumn": 120,
+                    "endOffset": 5311
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 5551,
+                        "endColumn": 120,
+                        "endOffset": 5667
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 5316,
+                    "endColumn": 117,
+                    "endOffset": 5429
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 4382,
+                        "endColumn": 117,
+                        "endOffset": 4495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 5434,
+                    "endColumn": 89,
+                    "endOffset": 5519
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 4500,
+                        "endColumn": 89,
+                        "endOffset": 4585
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 5524,
+                    "endColumn": 122,
+                    "endOffset": 5642
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2745,
+                        "endColumn": 122,
+                        "endOffset": 2863
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 5647,
+                    "endColumn": 123,
+                    "endOffset": 5766
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 7991,
+                        "endColumn": 123,
+                        "endOffset": 8110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 5771,
+                    "endColumn": 87,
+                    "endOffset": 5854
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 8744,
+                        "endColumn": 87,
+                        "endOffset": 8827
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 5859,
+                    "endColumn": 91,
+                    "endOffset": 5946
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 8115,
+                        "endColumn": 91,
+                        "endOffset": 8202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 5951,
+                    "endColumn": 179,
+                    "endOffset": 6126
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1746,
+                        "endColumn": 179,
+                        "endOffset": 1921
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 6131,
+                    "endColumn": 126,
+                    "endOffset": 6253
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1619,
+                        "endColumn": 126,
+                        "endOffset": 1741
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 6258,
+                    "endColumn": 165,
+                    "endOffset": 6419
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 8292,
+                        "endColumn": 173,
+                        "endOffset": 8461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 6424,
+                    "endColumn": 145,
+                    "endOffset": 6565
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 8594,
+                        "endColumn": 149,
+                        "endOffset": 8739
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 6570,
+                    "endColumn": 123,
+                    "endOffset": 6689
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 8466,
+                        "endColumn": 127,
+                        "endOffset": 8589
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 6694,
+                    "endColumn": 118,
+                    "endOffset": 6808
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 6297,
+                        "endColumn": 118,
+                        "endOffset": 6411
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 6813,
+                    "endColumn": 163,
+                    "endOffset": 6972
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 4214,
+                        "endColumn": 167,
+                        "endOffset": 4377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 6977,
+                    "endColumn": 116,
+                    "endOffset": 7089
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2628,
+                        "endColumn": 116,
+                        "endOffset": 2740
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 7094,
+                    "endColumn": 91,
+                    "endOffset": 7181
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 6885,
+                        "endColumn": 91,
+                        "endOffset": 6972
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 7186,
+                    "endColumn": 153,
+                    "endOffset": 7335
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 3454,
+                        "endColumn": 153,
+                        "endOffset": 3603
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 7340,
+                    "endColumn": 160,
+                    "endOffset": 7496
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 3743,
+                        "endColumn": 160,
+                        "endOffset": 3899
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 7501,
+                    "endColumn": 167,
+                    "endOffset": 7664
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 4046,
+                        "endColumn": 167,
+                        "endOffset": 4209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 7669,
+                    "endColumn": 99,
+                    "endOffset": 7764
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 3354,
+                        "endColumn": 99,
+                        "endOffset": 3449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 7769,
+                    "endColumn": 134,
+                    "endOffset": 7899
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 3608,
+                        "endColumn": 134,
+                        "endOffset": 3738
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 7904,
+                    "endColumn": 141,
+                    "endOffset": 8041
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 3904,
+                        "endColumn": 141,
+                        "endOffset": 4041
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 8046,
+                    "endColumn": 91,
+                    "endOffset": 8133
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 3060,
+                        "endColumn": 91,
+                        "endOffset": 3147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 8138,
+                    "endColumn": 143,
+                    "endOffset": 8277
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1240,
+                        "endColumn": 143,
+                        "endOffset": 1379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 8282,
+                    "endColumn": 124,
+                    "endOffset": 8402
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1384,
+                        "endColumn": 124,
+                        "endOffset": 1504
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 8407,
+                    "endColumn": 88,
+                    "endOffset": 8491
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 9753,
+                        "endColumn": 88,
+                        "endOffset": 9837
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 8496,
+                    "endColumn": 92,
+                    "endOffset": 8584
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 6204,
+                        "endColumn": 92,
+                        "endOffset": 6292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 8589,
+                    "endColumn": 109,
+                    "endOffset": 8694
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1509,
+                        "endColumn": 109,
+                        "endOffset": 1614
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 8699,
+                    "endColumn": 175,
+                    "endOffset": 8870
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 4,
+                        "startOffset": 10593,
+                        "endColumn": 183,
+                        "endOffset": 10772
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 8875,
+                    "endColumn": 97,
+                    "endOffset": 8968
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 3152,
+                        "endColumn": 97,
+                        "endOffset": 3245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 8973,
+                    "endColumn": 139,
+                    "endOffset": 9108
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 4590,
+                        "endColumn": 139,
+                        "endOffset": 4725
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 9113,
+                    "endColumn": 98,
+                    "endOffset": 9207
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 6105,
+                        "endColumn": 98,
+                        "endOffset": 6199
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 9212,
+                    "endColumn": 118,
+                    "endOffset": 9326
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2015,
+                        "endColumn": 118,
+                        "endOffset": 2129
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 9331,
+                    "endColumn": 84,
+                    "endOffset": 9411
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 6020,
+                        "endColumn": 84,
+                        "endOffset": 6100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 9416,
+                    "endColumn": 88,
+                    "endOffset": 9500
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1926,
+                        "endColumn": 88,
+                        "endOffset": 2010
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 9505,
+                    "endColumn": 188,
+                    "endOffset": 9689
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 4,
+                        "startOffset": 10309,
+                        "endColumn": 196,
+                        "endOffset": 10501
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 9694,
+                    "endColumn": 83,
+                    "endOffset": 9773
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 933,
+                        "endColumn": 83,
+                        "endOffset": 1012
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 9778,
+                    "endColumn": 109,
+                    "endOffset": 9883
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 5165,
+                        "endColumn": 109,
+                        "endOffset": 5270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 9888,
+                    "endColumn": 113,
+                    "endOffset": 9997
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-gl-rES/strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 5051,
+                        "endColumn": 113,
+                        "endOffset": 5160
+                    }
+                }
+            }
+        ]
+    }
+]

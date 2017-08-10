@@ -1,0 +1,1622 @@
+[
+    {
+        "outputFile": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hy-rAM/values-hy-rAM.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 87,
+                    "endOffset": 188
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 6790,
+                        "endColumn": 87,
+                        "endOffset": 6873
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 193,
+                    "endColumn": 191,
+                    "endOffset": 380
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 7067,
+                        "endColumn": 191,
+                        "endOffset": 7254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 385,
+                    "endColumn": 108,
+                    "endOffset": 489
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 6958,
+                        "endColumn": 108,
+                        "endOffset": 7062
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 494,
+                    "endColumn": 79,
+                    "endOffset": 569
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 6878,
+                        "endColumn": 79,
+                        "endOffset": 6953
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 574,
+                    "endColumn": 96,
+                    "endOffset": 666
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 6247,
+                        "endColumn": 96,
+                        "endOffset": 6339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 671,
+                    "endColumn": 108,
+                    "endOffset": 775
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 7565,
+                        "endColumn": 108,
+                        "endOffset": 7669
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 780,
+                    "endColumn": 103,
+                    "endOffset": 879
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 9984,
+                        "endColumn": 103,
+                        "endOffset": 10083
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 884,
+                    "endColumn": 102,
+                    "endOffset": 982
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 4,
+                        "startOffset": 9881,
+                        "endColumn": 102,
+                        "endOffset": 9979
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 987,
+                    "endColumn": 93,
+                    "endOffset": 1076
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 10287,
+                        "endColumn": 93,
+                        "endOffset": 10376
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1081,
+                    "endColumn": 103,
+                    "endOffset": 1180
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 4,
+                        "startOffset": 9777,
+                        "endColumn": 103,
+                        "endOffset": 9876
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1185,
+                    "endColumn": 102,
+                    "endOffset": 1283
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 9674,
+                        "endColumn": 102,
+                        "endOffset": 9772
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1288,
+                    "endColumn": 85,
+                    "endOffset": 1369
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 7972,
+                        "endColumn": 85,
+                        "endOffset": 8053
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1374,
+                    "endColumn": 97,
+                    "endOffset": 1467
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 7674,
+                        "endColumn": 97,
+                        "endOffset": 7767
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1472,
+                    "endColumn": 102,
+                    "endOffset": 1570
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 9299,
+                        "endColumn": 102,
+                        "endOffset": 9397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1575,
+                    "endColumn": 101,
+                    "endOffset": 1672
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 9402,
+                        "endColumn": 101,
+                        "endOffset": 9499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1677,
+                    "endColumn": 107,
+                    "endOffset": 1780
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 9191,
+                        "endColumn": 107,
+                        "endOffset": 9294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1785,
+                    "endColumn": 81,
+                    "endOffset": 1862
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 9592,
+                        "endColumn": 81,
+                        "endOffset": 9669
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1867,
+                    "endColumn": 102,
+                    "endOffset": 1965
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1120,
+                        "endColumn": 102,
+                        "endOffset": 1218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1970,
+                    "endColumn": 98,
+                    "endOffset": 2064
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1021,
+                        "endColumn": 98,
+                        "endOffset": 1115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2069,
+                    "endColumn": 125,
+                    "endOffset": 2190
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 4,
+                        "startOffset": 8590,
+                        "endColumn": 129,
+                        "endOffset": 8715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2195,
+                    "endColumn": 130,
+                    "endOffset": 2321
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 8720,
+                        "endColumn": 134,
+                        "endOffset": 8850
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2326,
+                    "endColumn": 102,
+                    "endOffset": 2424
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 8855,
+                        "endColumn": 102,
+                        "endOffset": 8953
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2429,
+                    "endColumn": 97,
+                    "endOffset": 2522
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2806,
+                        "endColumn": 97,
+                        "endOffset": 2899
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2527,
+                    "endColumn": 92,
+                    "endOffset": 2615
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2904,
+                        "endColumn": 92,
+                        "endOffset": 2992
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2620,
+                    "endColumn": 104,
+                    "endOffset": 2720
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2193,
+                        "endColumn": 104,
+                        "endOffset": 2293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2725,
+                    "endColumn": 164,
+                    "endOffset": 2885
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2298,
+                        "endColumn": 168,
+                        "endOffset": 2462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2890,
+                    "endColumn": 103,
+                    "endOffset": 2989
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 2089,
+                        "endColumn": 103,
+                        "endOffset": 2188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2994,
+                    "endColumn": 111,
+                    "endOffset": 3101
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2467,
+                        "endColumn": 111,
+                        "endOffset": 2574
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3106,
+                    "endColumn": 140,
+                    "endOffset": 3242
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 6560,
+                        "endColumn": 140,
+                        "endOffset": 6696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3247,
+                    "endColumn": 102,
+                    "endOffset": 3345
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 6457,
+                        "endColumn": 102,
+                        "endOffset": 6555
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3350,
+                    "endColumn": 112,
+                    "endOffset": 3458
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 6344,
+                        "endColumn": 112,
+                        "endOffset": 6452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3463,
+                    "endColumn": 158,
+                    "endOffset": 3617
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 7259,
+                        "endColumn": 166,
+                        "endOffset": 7421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3622,
+                    "endColumn": 102,
+                    "endOffset": 3720
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 3184,
+                        "endColumn": 102,
+                        "endOffset": 3282
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 3725,
+                    "endColumn": 75,
+                    "endOffset": 3796
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 788,
+                        "endColumn": 75,
+                        "endOffset": 859
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3801,
+                    "endColumn": 134,
+                    "endOffset": 3931
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 7426,
+                        "endColumn": 138,
+                        "endOffset": 7560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3936,
+                    "endColumn": 139,
+                    "endOffset": 4071
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 8958,
+                        "endColumn": 143,
+                        "endOffset": 9097
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 4076,
+                    "endColumn": 96,
+                    "endOffset": 4168
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 4848,
+                        "endColumn": 96,
+                        "endOffset": 4940
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 4173,
+                    "endColumn": 131,
+                    "endOffset": 4300
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 4712,
+                        "endColumn": 135,
+                        "endOffset": 4843
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4305,
+                    "endColumn": 84,
+                    "endOffset": 4385
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 5531,
+                        "endColumn": 84,
+                        "endOffset": 5611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4390,
+                    "endColumn": 88,
+                    "endOffset": 4474
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 9102,
+                        "endColumn": 88,
+                        "endOffset": 9186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4479,
+                    "endColumn": 88,
+                    "endOffset": 4563
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 4623,
+                        "endColumn": 88,
+                        "endOffset": 4707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4568,
+                    "endColumn": 60,
+                    "endOffset": 4624
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 864,
+                        "endColumn": 68,
+                        "endOffset": 928
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4629,
+                    "endColumn": 113,
+                    "endOffset": 4738
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 5742,
+                        "endColumn": 117,
+                        "endOffset": 5855
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4743,
+                    "endColumn": 149,
+                    "endOffset": 4888
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 5155,
+                        "endColumn": 157,
+                        "endOffset": 5308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4893,
+                    "endColumn": 121,
+                    "endOffset": 5010
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 5616,
+                        "endColumn": 125,
+                        "endOffset": 5737
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 5015,
+                    "endColumn": 104,
+                    "endOffset": 5115
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 5313,
+                        "endColumn": 104,
+                        "endOffset": 5413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 5120,
+                    "endColumn": 112,
+                    "endOffset": 5228
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 5418,
+                        "endColumn": 112,
+                        "endOffset": 5526
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 5233,
+                    "endColumn": 99,
+                    "endOffset": 5328
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 4301,
+                        "endColumn": 99,
+                        "endOffset": 4396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 5333,
+                    "endColumn": 87,
+                    "endOffset": 5416
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 4401,
+                        "endColumn": 87,
+                        "endOffset": 4484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 5421,
+                    "endColumn": 119,
+                    "endOffset": 5536
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2686,
+                        "endColumn": 119,
+                        "endOffset": 2801
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 5541,
+                    "endColumn": 114,
+                    "endOffset": 5651
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 7772,
+                        "endColumn": 114,
+                        "endOffset": 7882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 5656,
+                    "endColumn": 85,
+                    "endOffset": 5737
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 8504,
+                        "endColumn": 85,
+                        "endOffset": 8585
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 5742,
+                    "endColumn": 84,
+                    "endOffset": 5822
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 7887,
+                        "endColumn": 84,
+                        "endOffset": 7967
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 5827,
+                    "endColumn": 173,
+                    "endOffset": 5996
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1698,
+                        "endColumn": 173,
+                        "endOffset": 1867
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 6001,
+                    "endColumn": 119,
+                    "endOffset": 6116
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1578,
+                        "endColumn": 119,
+                        "endOffset": 1693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 6121,
+                    "endColumn": 166,
+                    "endOffset": 6283
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 8058,
+                        "endColumn": 174,
+                        "endOffset": 8228
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 6288,
+                    "endColumn": 140,
+                    "endOffset": 6424
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 8359,
+                        "endColumn": 144,
+                        "endOffset": 8499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 6429,
+                    "endColumn": 121,
+                    "endOffset": 6546
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 8233,
+                        "endColumn": 125,
+                        "endOffset": 8354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 6551,
+                    "endColumn": 116,
+                    "endOffset": 6663
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 6130,
+                        "endColumn": 116,
+                        "endOffset": 6242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 6668,
+                    "endColumn": 165,
+                    "endOffset": 6829
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 4131,
+                        "endColumn": 169,
+                        "endOffset": 4296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 6834,
+                    "endColumn": 106,
+                    "endOffset": 6936
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2579,
+                        "endColumn": 106,
+                        "endOffset": 2681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 6941,
+                    "endColumn": 88,
+                    "endOffset": 7025
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 6701,
+                        "endColumn": 88,
+                        "endOffset": 6785
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 7030,
+                    "endColumn": 162,
+                    "endOffset": 7188
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 3394,
+                        "endColumn": 162,
+                        "endOffset": 3552
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 7193,
+                    "endColumn": 154,
+                    "endOffset": 7343
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 3688,
+                        "endColumn": 154,
+                        "endOffset": 3838
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 7348,
+                    "endColumn": 156,
+                    "endOffset": 7500
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 3974,
+                        "endColumn": 156,
+                        "endOffset": 4126
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 7505,
+                    "endColumn": 106,
+                    "endOffset": 7607
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 3287,
+                        "endColumn": 106,
+                        "endOffset": 3389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 7612,
+                    "endColumn": 130,
+                    "endOffset": 7738
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 3557,
+                        "endColumn": 130,
+                        "endOffset": 3683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 7743,
+                    "endColumn": 130,
+                    "endOffset": 7869
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 3843,
+                        "endColumn": 130,
+                        "endOffset": 3969
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 7874,
+                    "endColumn": 91,
+                    "endOffset": 7961
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2997,
+                        "endColumn": 91,
+                        "endOffset": 3084
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 7966,
+                    "endColumn": 128,
+                    "endOffset": 8090
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1223,
+                        "endColumn": 128,
+                        "endOffset": 1347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 8095,
+                    "endColumn": 118,
+                    "endOffset": 8209
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1352,
+                        "endColumn": 118,
+                        "endOffset": 1466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 8214,
+                    "endColumn": 87,
+                    "endOffset": 8297
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 9504,
+                        "endColumn": 87,
+                        "endOffset": 9587
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 8302,
+                    "endColumn": 93,
+                    "endOffset": 8391
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 6036,
+                        "endColumn": 93,
+                        "endOffset": 6125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 8396,
+                    "endColumn": 106,
+                    "endOffset": 8498
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1471,
+                        "endColumn": 106,
+                        "endOffset": 1573
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 8503,
+                    "endColumn": 193,
+                    "endOffset": 8692
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 4,
+                        "startOffset": 10381,
+                        "endColumn": 201,
+                        "endOffset": 10578
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 8697,
+                    "endColumn": 94,
+                    "endOffset": 8787
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 3089,
+                        "endColumn": 94,
+                        "endOffset": 3179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 8792,
+                    "endColumn": 133,
+                    "endOffset": 8921
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 4489,
+                        "endColumn": 133,
+                        "endOffset": 4618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 8926,
+                    "endColumn": 89,
+                    "endOffset": 9011
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 5946,
+                        "endColumn": 89,
+                        "endOffset": 6031
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 9016,
+                    "endColumn": 127,
+                    "endOffset": 9139
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1961,
+                        "endColumn": 127,
+                        "endOffset": 2084
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 9144,
+                    "endColumn": 85,
+                    "endOffset": 9225
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 5860,
+                        "endColumn": 85,
+                        "endOffset": 5941
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 9230,
+                    "endColumn": 88,
+                    "endOffset": 9314
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1872,
+                        "endColumn": 88,
+                        "endOffset": 1956
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 9319,
+                    "endColumn": 190,
+                    "endOffset": 9505
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 4,
+                        "startOffset": 10088,
+                        "endColumn": 198,
+                        "endOffset": 10282
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 9510,
+                    "endColumn": 87,
+                    "endOffset": 9593
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 933,
+                        "endColumn": 87,
+                        "endOffset": 1016
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 9598,
+                    "endColumn": 98,
+                    "endOffset": 9692
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 5056,
+                        "endColumn": 98,
+                        "endOffset": 5150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 9697,
+                    "endColumn": 110,
+                    "endOffset": 9803
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-hy-rAM/strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 4945,
+                        "endColumn": 110,
+                        "endOffset": 5051
+                    }
+                }
+            }
+        ]
+    }
+]

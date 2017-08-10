@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/drawable-v21/quantum_panel_dark.xml",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/drawable-v21/quantum_panel_dark.xml"
+    },
+    {
+        "merged": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/res/merged/debug/drawable-v21/quantum_panel.xml",
+        "source": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/drawable-v21/quantum_panel.xml"
+    }
+]

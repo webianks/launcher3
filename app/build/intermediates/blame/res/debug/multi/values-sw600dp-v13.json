@@ -1,0 +1,159 @@
+[
+    {
+        "outputFile": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 43,
+                    "endOffset": 94
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-sw600dp/config.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 43,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 99,
+                    "endColumn": 38,
+                    "endOffset": 133
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-sw600dp/config.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 38,
+                        "endOffset": 50
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 138,
+                    "endColumn": 65,
+                    "endOffset": 199
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 895,
+                        "endColumn": 65,
+                        "endOffset": 956
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 204,
+                    "endColumn": 64,
+                    "endOffset": 264
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 830,
+                        "endColumn": 64,
+                        "endOffset": 890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 269,
+                    "endColumn": 62,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 767,
+                        "endColumn": 62,
+                        "endOffset": 825
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 332,
+                    "endColumn": 61,
+                    "endOffset": 389
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 705,
+                        "endColumn": 61,
+                        "endOffset": 762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 394,
+                    "endColumn": 63,
+                    "endOffset": 453
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1061,
+                        "endColumn": 63,
+                        "endOffset": 1120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 458,
+                    "endColumn": 52,
+                    "endOffset": 506
+                },
+                "from": {
+                    "file": "/home/ramankit/AndroidStudioProjects/NougatLauncher/app/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 983,
+                        "endColumn": 52,
+                        "endOffset": 1031
+                    }
+                }
+            }
+        ]
+    }
+]

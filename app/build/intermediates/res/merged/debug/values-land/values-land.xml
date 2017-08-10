@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item format="fraction" name="container_margin" type="fraction">12%</item>
+</resources>
